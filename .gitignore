@@ -1,0 +1,8 @@
+build/
+install/
+log/
+__pycache__/
+*.pyc
+src/mybot_cpp_examples/
+src/mybot_python_examples/
+.vscode/

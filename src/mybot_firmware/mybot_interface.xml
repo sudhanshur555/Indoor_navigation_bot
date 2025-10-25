@@ -1,0 +1,10 @@
+<library path="mybot_firmware">
+    <class name="mybot_firmware/mybotInterface"
+      type="mybot_firmware::mybotInterface"
+      base_class_type="hardware_interface::SystemInterface"
+    >
+      <description>
+        mybot Hardware Interface
+      </description>
+    </class>
+  </library>
